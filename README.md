@@ -28,11 +28,17 @@ Total number of healthy loans (label 0): 1,876
 Total number of high-risk loans (label 1): 619
 
 Steps:
+
 Load data into a dataframe.
+
 Create loan_status as labels and use the other columns as features.
+
 Split the data into training and test datasets.
+
 Fit a logistic regression model using the training data.
+
 Save the predictions on the testing data labels by using the testing feature data and the fitted model.
+
 Evaluate the model’s performance by generating a confusion matrix and printing the classification report.
 
 Model:
