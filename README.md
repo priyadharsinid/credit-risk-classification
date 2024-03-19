@@ -12,19 +12,28 @@ The dataset comprises features such as loan size, interest rate, borrower income
 Dataset information(model:1):
 
 For the Total Dataset:
+
 Total number of rows: 77,536
+
 Total number of healthy loans (label 0): 75,036
+
 Total number of high-risk loans (label 1): 2,500
 
 
 For the Train Data:
+
 Total number of rows: 58,152
+
 Total number of healthy loans (label 0): 56,271
+
 Total number of high-risk loans (label 1): 1,881
 
 For the Test Data:
+
 Total number of rows: 19,384
+
 Total number of healthy loans (label 0): 1,876
+
 Total number of high-risk loans (label 1): 619
 
 Steps:
