@@ -47,19 +47,25 @@ I have used logistic regression model, additionally tested using BalancedRandomF
 
 ## Results
 logistic regression Model(Model:1):
+
 Accuracy Score:0.99
+
 This indicates  that the model correctly predicts 99% of the loans in the dataset.
 
-Healthy Loan (0) :
-Precision: 1.00
+## Healthy Loan (0) :
+
+* Precision: 1.00
 This means that when the model predicts a loan as healthy, it is 100 % accurate and not wrongly labeled.
-Recall: 0.99
+
+* Recall: 0.99
 This indicates that the model correctly identifies 99% of all healthy loans in the dataset.
 
-High-Risk Loan (1):
-Precision: 0.84
+## High-Risk Loan (1):
+
+* Precision: 0.84
 This means that when the model predicts a loan as high-risk,it is 84 % accurate and 16% of the time its wrongly labeled. 
-Recall: 0.94
+
+* Recall: 0.94
 This indicates that the model correctly identifies 99% of all high-risk loans in the dataset.
 
 ## Summary
